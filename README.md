@@ -4,7 +4,7 @@
 
 <br/>
 
-![Arduino](https://img.shields.io/badge/Arduino-UNO-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-NANO-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Role](https://img.shields.io/badge/Role-Team_Leader-red?style=flat-square)
 
